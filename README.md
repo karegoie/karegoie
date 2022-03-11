@@ -14,7 +14,7 @@ I’m interseted in evolutionary milestones on plants such as flowering, terrest
 
 Computer Vision with Deep Learning, Deep Reinforcement Learning, Sequence Deep Learning
 
-✔️**Comination**
+✔️**Combination**
 
 Studying Plant Evolution with machine learning approach
 
