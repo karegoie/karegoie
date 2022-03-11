@@ -1,5 +1,3 @@
-# README
-
 # 😄 Lim Hyunsu - Bioinformatician
 
 Hi, I’m **bioinformatician** studying at Seoul National University(Republic of Korea)
